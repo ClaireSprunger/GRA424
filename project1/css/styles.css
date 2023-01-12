@@ -42,7 +42,7 @@
     display: flex;
     height: 42.857143vh;
     width: 42.857143vw;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     margin: auto;
 }
 
