@@ -7,7 +7,6 @@
 
 .rectangle1 {
     display: flex;
-    position: relative;
     height: 71.428571vh;
     width: 71.428571vw;
     background-color: rgb(255, 255, 255);
@@ -17,7 +16,6 @@
 
 .rectangle2 {
     display: flex;
-    position: relative;
     height: 42.857143vh;
     width: 42.857143vw;
     background-color: white;
