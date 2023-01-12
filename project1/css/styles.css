@@ -10,7 +10,7 @@
     height: 71.428571vh;
     width: 71.428571vw;
     background-color: rgb(255, 255, 255);
-    border: 0.25px solid black;
+    border: 0.25px solid gray;
     margin: auto;
 }
 
@@ -19,7 +19,7 @@
     height: 42.857143vh;
     width: 42.857143vw;
     background-color: white;
-    border: 0.25px solid black;
+    border: 0.25px solid gray;
     margin: auto;
 }
 
@@ -36,9 +36,9 @@
     height: 71.428571vh;
     width: 71.428571vw;
     background-color: rgb(255, 255, 255);
-    border: 0.25px solid black;
+    border: 0.25px solid gray;
     margin: auto;
-    border: 0.25px solid black;
+    border: 0.25px solid gray;
 }
 
 .rectangle5 {
