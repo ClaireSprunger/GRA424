@@ -7,6 +7,7 @@
 
 .rectangle1 {
     display: block;
+    box-sizing: border-box;
     height: 71.428571vh;
     width: 71.428571vw;
     background-color: rgb(255, 255, 255);
@@ -16,6 +17,7 @@
 
 .rectangle2 {
     display: block;
+    box-sizing: border-box;
     height: 42.857143vh;
     width: 42.857143vw;
     background-color: white;
@@ -25,6 +27,7 @@
 
 .rectangle3 {
     display: block;
+    box-sizing: border-box;
     height: 14.285714vh;
     width: 14.285714vw;
     background-color: black;
