@@ -35,7 +35,8 @@
     display: flex;
     height: 71.428571vh;
     width: 71.428571vw;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
+    border: 0.25px solid black;
     margin: auto;
     border: 0.25px solid black;
 }
