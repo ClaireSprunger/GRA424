@@ -25,7 +25,7 @@
 .line-left {
     display: flex;
     background-color: #000;
-    width: 2.35404vw;
+    width: 2.4vw;
     height: 42.857143vh;
     margin: auto;
     margin-left: 0;
@@ -34,7 +34,7 @@
 .line {
     display: flex;
     background-color: #000;
-    width: 2.35404vw;
+    width: 2.4vw;
     height: 42.857143vh;
     margin: auto;
 }
@@ -42,7 +42,7 @@
 .line-right {
     display: flex;
     background-color: #000;
-    width: 2.35404vw;
+    width: 2.4vw;
     height: 42.857143vh;
     margin: auto;
     margin-right: 0;
