@@ -57,7 +57,13 @@
     margin: auto;
 }
 
-
+.square2 {
+    display: flex;
+    height: 14.285714vh;
+    width: 14.285714vw;
+    background-color: chocolate
+    margin: auto;
+}
 
 .square3 {
     display: flex;
