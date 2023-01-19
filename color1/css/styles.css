@@ -25,11 +25,10 @@
 }
 
 .row1 {
-    display: flex;
     height: 14.285714vh;
     width: 42.857143vw;
     margin: auto;
-    flex-wrap: wrap;
+
 }
 
 .row2 {
