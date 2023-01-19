@@ -46,7 +46,7 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: 614c4a;
+    background-color: rgb(97, 76, 74);
     margin: auto;
 }
 
@@ -54,7 +54,7 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: chocolate;
+    background-color: rgb(156, 43, 89);
     margin: auto;
 }
 
@@ -62,7 +62,7 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: orange;
+    background-color: rgb(63, 173, 165);
     margin: auto;
 }
 
@@ -70,7 +70,7 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: rgb(197, 255, 121);
+    background-color: rgb(188, 52, 100);
     margin: auto;
 }
 
@@ -78,7 +78,7 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: rgb(2, 170, 103);
+    background-color: rgb(211,61,86);
     margin: auto;
 }
 
@@ -86,7 +86,7 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: rgb(233, 43, 141);
+    background-color: rgb(229, 98, 50);
     margin: auto;
 }
 
@@ -94,7 +94,7 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: rgb(210, 48, 48);
+    background-color: rgb(132, 44, 53);
     margin: auto;
 }
 
@@ -102,7 +102,7 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: blue;
+    background-color: rgb(195, 220, 162);
     margin: auto;
 }
 
@@ -110,6 +110,6 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: rgb(26, 166, 185);
+    background-color: rgb(183, 223, 225);
     margin: auto;
 }
