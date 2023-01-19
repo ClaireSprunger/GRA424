@@ -110,7 +110,6 @@
     height: 14.285714vh;
     width: 14.285714vw;
     background-color: blue;
-    margin: auto;
 }
 
 .square9 {
@@ -118,4 +117,5 @@
     height: 14.285714vh;
     width: 14.285714vw;
     background-color: rgb(26, 166, 185);
+    margin: auto;
 }
